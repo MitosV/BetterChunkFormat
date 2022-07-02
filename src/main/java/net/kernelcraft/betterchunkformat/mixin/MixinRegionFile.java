@@ -3,7 +3,6 @@ package net.kernelcraft.betterchunkformat.mixin;
 import java.nio.file.Path;
 
 import net.kernelcraft.betterchunkformat.BetterChunkFormat;
-import net.kernelcraft.betterchunkformat.RegionCompressionType;
 import net.kernelcraft.betterchunkformat.compression.ChunkLZ4Compression;
 import net.kernelcraft.betterchunkformat.compression.ChunkZSTDCompression;
 import net.minecraft.world.storage.ChunkStreamVersion;
