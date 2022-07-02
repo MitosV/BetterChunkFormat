@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "betterchunkformat",
+  "version": "${version}",
+  "name": "BetterChunkFormat",
+  "description": "",
+  "authors": [
+    "KernelFreeze"
+  ],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.kernelcraft.betterchunkformat.BetterChunkFormat"
+    ]
+  },
+  "mixins": [
+    "betterchunkformat.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.8",
+    "fabric": "*",
+    "minecraft": "1.19"
+  },
+  "accessWidener" : "betterchunkformat.accesswidener"
+}

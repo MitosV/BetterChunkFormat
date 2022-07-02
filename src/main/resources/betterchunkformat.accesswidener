@@ -1,0 +1,5 @@
+accessWidener	v1	named
+accessible method net/minecraft/world/storage/ChunkStreamVersion add (Lnet/minecraft/world/storage/ChunkStreamVersion;)Lnet/minecraft/world/storage/ChunkStreamVersion;
+accessible class net/minecraft/world/storage/ChunkStreamVersion$Wrapper
+accessible method net/minecraft/world/storage/ChunkStreamVersion <init> (ILnet/minecraft/world/storage/ChunkStreamVersion$Wrapper;Lnet/minecraft/world/storage/ChunkStreamVersion$Wrapper;)V
+mutable field net/minecraft/world/storage/RegionFile outputChunkStreamVersion Lnet/minecraft/world/storage/ChunkStreamVersion;
